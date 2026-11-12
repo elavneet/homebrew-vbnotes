@@ -1,6 +1,6 @@
 cask "vb-notes" do
-  version "0.4.16"
-  sha256 "b98b3572b5ba10399883c9540bac510bc51d0ea6e898a8a57de3ae24faf00aeb"
+  version "0.4.17"
+  sha256 "2e5fd77ed33980dd44e594a01c707fda1035520af454bc118c51a98b6771e6cc"
 
   url "https://github.com/elavneet/vbnotes.com/releases/download/v#{version}/VBNotes_#{version}_universal.dmg",
       verified: "github.com/elavneet/vbnotes.com/"
